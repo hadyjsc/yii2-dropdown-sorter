@@ -14,14 +14,14 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require "jscdev/yii2-button-dropdown-sorter @dev"
+composer require "jscdev/yii2-dropdown-sorter @dev"
 
 ```
 
 or add
 
 ```
-"jscdev/yii2-button-dropdown-sorter": "@dev"
+"jscdev/yii2-dropdown-sorter": "@dev"
 ```
 
 to the require section of your `composer.json` file.
@@ -30,7 +30,7 @@ Using
 
 ```
 'sorter' => [
-    'class' => 'jscdev\bs4\ButtonDropdownSorter',
+    'class' => 'jscdev\yii2\ButtonDropdownSorter',
     'linkOptions' => [
         'class' => 'dropdown-item',
         'tabindex' => '-1'
