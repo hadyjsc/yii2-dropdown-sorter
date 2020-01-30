@@ -1,12 +1,12 @@
 {
-    "name": "jscdev/yii2-button-dropdown-sorter",
+    "name": "jscdev/yii2-dropdown-sorter",
     "description": "Bootstap4 button dropdown for sorter in yii2",
     "keywords": ["yii2", "dropdown", "bootstrap4"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/hadyjsc/yii2-button-dropdown-sorter/issues",
-        "source": "https://github.com/hadyjsc/yii2-button-dropdown-sorter"
+        "issues": "https://github.com/hadyjsc/yii2-dropdown-sorter/issues",
+        "source": "https://github.com/hadyjsc/yii2-dropdown-sorter"
     },
     "authors": [
         {
