@@ -3,7 +3,7 @@
  * @see http://www.yiiframework.com/doc-2.0/yii-widgets-linksorter.html
  */
 
-namespace jscdev\bs4;
+namespace jscdev\yii2;
 
 use yii\base\InvalidConfigException;
 use yii\base\Widget;
